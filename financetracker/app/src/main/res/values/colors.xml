@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme colors -->
+    <color name="primary">#5D4B9E</color> <!-- Purple -->
+    <color name="primary_dark">#3D2B7E</color>
+    <color name="primary_light">#7D6BBE</color>
+    <color name="accent">#FF6B6B</color> <!-- Coral accent -->
+    <color name="accent_dark">#DF4B4B</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#2D2D2D</color>
+    <color name="text_secondary">#6D6D6D</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Background colors -->
+    <color name="backgroundclr">#F8F9FA</color>
+    <color name="background">#F8F9FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E9ECEF</color>
+
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Transaction colors -->
+    <color name="income">#4CAF50</color>
+    <color name="expense">#F44336</color>
+
+    <!-- Budget status colors -->
+    <color name="budget_good">#4CAF50</color>
+    <color name="budget_warning">#FFC107</color>
+    <color name="budget_exceeded">#F44336</color>
+
+    <!-- Chart colors -->
+    <color name="chart_color_1">#5D4B9E</color>
+    <color name="chart_color_2">#FF6B6B</color>
+    <color name="chart_color_3">#4CAF50</color>
+    <color name="chart_color_4">#2196F3</color>
+    <color name="chart_color_5">#FFC107</color>
+    <color name="chart_color_6">#9C27B0</color>
+    <color name="chart_color_7">#FF5722</color>
+    <color name="chart_color_8">#607D8B</color>
+
+    <!-- Category colors -->
+    <color name="category_food">#4CAF50</color>
+    <color name="category_transport">#2196F3</color>
+    <color name="category_bills">#F44336</color>
+    <color name="category_entertainment">#9C27B0</color>
+    <color name="category_shopping">#FFC107</color>
+    <color name="category_health">#FF6B6B</color>
+    <color name="category_education">#5D4B9E</color>
+    <color name="category_housing">#FF5722</color>
+    <color name="category_other">#607D8B</color>
+
+    <!-- Night mode / Dark theme colors -->
+    <color name="night_primary">#7D6BBE</color>
+    <color name="night_background">#121212</color>
+    <color name="night_surface">#1E1E1E</color>
+    <color name="night_text_primary">#FFFFFF</color>
+    <color name="night_text_secondary">#B3B3B3</color>
+</resources>
